@@ -12,6 +12,8 @@ $ git clone git@github.com:sufyansalim/node-express-backend.git
 Note : Add your secret & mongourl to the default.json file in config folder.
 
 ```
+mongoURI:"<YOUR_MONGO-DB_URL>"
+jwtSecret:"<YOUR_SECRET>"
 ```
 Optional : If you want to contribute. Add, remote origin.
 
