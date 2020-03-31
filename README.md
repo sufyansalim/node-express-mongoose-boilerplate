@@ -1,6 +1,6 @@
 ## Node + Express + Mongoose + MongoDB
 
-__A simple backend for managing users, passport-jwt middlewware is used for user authentication and accesing protected routes or apis.__
+__A simple node boilerplate for managing users, passport-jwt middlewware is used for user authentication and accesing protected routes or apis.__
 
 
 ### Getting Started
